@@ -1,6 +1,4 @@
 # EXPERIMENT 1 : ER Diagram Workshop – Submission Template
-## NAME :  RUSHMITHA  R
-## REGISTRATION NUMBER : 212224040281
 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
@@ -25,7 +23,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### ER Diagram:
  
-<img src="https://img.sanishtech.com/u/318bbc63435bf6013ed8fda99a793834.png" alt="a" loading="lazy" style="max-width:100%;height:auto;">
+<img src="https://img.sanishtech.com/u/6bfa7886e04e2dd06f7fc0252fadebf9.png" alt="edited-photo" width="1382" height="895" loading="lazy" style="max-width:100%;height:auto;">
 
 ### Entities and Attributes
 
@@ -72,7 +70,7 @@ The Central Library wants to manage book lending and cultural events.
 
 ### ER Diagram:
 
-<img src="https://img.sanishtech.com/u/bc941a9e71705e8a57dd496051ae4cd6.png" alt="aa" width="1544" height="895" loading="lazy" style="max-width:100%;height:auto;">
+<img src="https://img.sanishtech.com/u/8c414650eadd4f3e79fa0f0d27eaac55.png" alt="edited-photo (1)" width="1320" height="723" loading="lazy" style="max-width:100%;height:auto;">
 
 ### Entities and Attributes
 
@@ -123,8 +121,7 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### ER Diagram:
 
-<img src="https://img.sanishtech.com/u/bc941a9e71705e8a57dd496051ae4cd6.png" alt="aa" width="1544" height="895" loading="lazy" style="max-width:100%;height:auto;">
-
+<img src="https://img.sanishtech.com/u/b71ba20f09c6f3974d4ae6801710dd12.png" alt="edited-photo (2)" width="1632" height="912" loading="lazy" style="max-width:100%;height:auto;">
 ### Entities and Attributes
 
 | Entity      | Attributes (PK, FK)                                                                      | Notes                                        |
@@ -152,10 +149,6 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Each reservation/order is served by one waiter.
 
 - A dish belongs to exactly one category.
-
-
-
-
 
 ---
 
