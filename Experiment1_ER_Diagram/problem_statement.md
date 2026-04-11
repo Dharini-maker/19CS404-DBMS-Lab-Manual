@@ -23,7 +23,8 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### ER Diagram:
  
-<img src="https://img.sanishtech.com/u/6bfa7886e04e2dd06f7fc0252fadebf9.png" alt="edited-photo" width="1382" height="895" loading="lazy" style="max-width:100%;height:auto;">
+<img width="1382" height="895" alt="er1" src="https://github.com/user-attachments/assets/ab25ad8b-31f8-41ba-9ea7-e8d3ba333d7c" />
+
 
 ### Entities and Attributes
 
@@ -70,7 +71,6 @@ The Central Library wants to manage book lending and cultural events.
 
 ### ER Diagram:
 
-<img src="https://img.sanishtech.com/u/8c414650eadd4f3e79fa0f0d27eaac55.png" alt="edited-photo (1)" width="1320" height="723" loading="lazy" style="max-width:100%;height:auto;">
 
 ### Entities and Attributes
 
@@ -102,6 +102,7 @@ The Central Library wants to manage book lending and cultural events.
 - Each event must have at least one speaker and one booked room.
 
 
+<img width="1320" height="723" alt="er2" src="https://github.com/user-attachments/assets/11bb0fa2-2541-4f36-8b7b-90f91295dc1c" />
 
 
 ---
@@ -121,7 +122,8 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### ER Diagram:
 
-<img src="https://img.sanishtech.com/u/b71ba20f09c6f3974d4ae6801710dd12.png" alt="edited-photo (2)" width="1632" height="912" loading="lazy" style="max-width:100%;height:auto;">
+<img width="1632" height="912" alt="er3" src="https://github.com/user-attachments/assets/3eaf3aa0-6929-43e5-8010-ac96380ef53f" />
+
 ### Entities and Attributes
 
 | Entity      | Attributes (PK, FK)                                                                      | Notes                                        |
